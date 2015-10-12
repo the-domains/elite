@@ -1,6 +1,6 @@
 name: Elite
 favicon: null
-title: 'Elite Plumbing & Ventilation LTD'
+layout_spectrum: 0.00889
 cta:
   domain: null
   bucket: null
@@ -14,13 +14,8 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors:
-    - '#7b7b7b'
-    - '#92053a'
-    - '#000000'
-    - '#ff0000'
-    - '#550000'
-  brandStrength: 1
+  brandColors: []
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
