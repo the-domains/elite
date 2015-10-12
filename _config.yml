@@ -1,6 +1,7 @@
 name: Elite
 favicon: null
 layout_spectrum: 0.00889
+typography_spectrum: 0.14667
 cta:
   domain: null
   bucket: null
