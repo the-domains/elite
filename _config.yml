@@ -1,4 +1,4 @@
-name: null
+name: Elite
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -14,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#7b7b7b'
+    - '#92053a'
+    - '#000000'
+    - '#ff0000'
+    - '#550000'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
