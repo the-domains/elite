@@ -20,7 +20,7 @@ color:
     - '#000000'
     - '#ff0000'
     - '#550000'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
